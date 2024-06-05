@@ -11,9 +11,9 @@ Docker Compose (solo si no se incluye con Docker en tu sistema):[ Instalacion Do
     
 Configuración del proyecto
 
-    Clona este repositorio en tu máquina local:
+   Clona este repositorio en tu máquina local:
 
-    bash
+   bash
 
 git clone https://github.com/itsseduardo/my-crud-app.git
 
@@ -21,24 +21,24 @@ Accede al directorio del proyecto:
 
 bash
 
-    cd mi-aplicacion-crud
+   cd mi-aplicacion-crud
 
 Uso
 Construir y levantar los contenedores Docker
 
-    Abre una terminal y navega hasta el directorio del proyecto.
+  Abre una terminal y navega hasta el directorio del proyecto.
 
-    Ejecuta el siguiente comando para construir y levantar los contenedores Docker:
+  Ejecuta el siguiente comando para construir y levantar los contenedores Docker:
 
 bash 
 
-    docker-compose up --build
+   docker-compose up --build
 
 Acceder a la aplicación
 
 Una vez que los contenedores estén en funcionamiento, puedes acceder a la aplicación en tu navegador web:
 
-    http://localhost:3000
+   http://localhost:3000
 
 La aplicación debería mostrarte una interfaz donde puedes agregar y eliminar items.
 Detener los contenedores
