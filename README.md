@@ -21,7 +21,7 @@ Accede al directorio del proyecto:
 
 bash
 
-   cd mi-aplicacion-crud
+    cd mi-aplicacion-crud
 
 Uso
 Construir y levantar los contenedores Docker
