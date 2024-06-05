@@ -88,4 +88,4 @@ Este proyecto fue creado por
 
 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE ](https://github.com/itsseduardo/my-crud-app/blob/main/LICENSE)para más detalles.
