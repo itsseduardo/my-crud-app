@@ -23,24 +23,26 @@ bash
 
     cd mi-aplicacion-crud
 
-Uso
+# Uso
+
 Construir y levantar los contenedores Docker
 
-  Abre una terminal y navega hasta el directorio del proyecto.
+ 1. Abre una terminal y navega hasta el directorio del proyecto.
 
-  Ejecuta el siguiente comando para construir y levantar los contenedores Docker:
+ 2. Ejecuta el siguiente comando para construir y levantar los contenedores Docker:
 
 bash 
 
     docker-compose up --build
 
-Acceder a la aplicación
+## Acceder a la aplicación
 
 Una vez que los contenedores estén en funcionamiento, puedes acceder a la aplicación en tu navegador web:
 
    http://localhost:3000
 
 La aplicación debería mostrarte una interfaz donde puedes agregar y eliminar items.
+
 Detener los contenedores
 
 Para detener los contenedores Docker, simplemente presiona Ctrl + C en la terminal donde se están ejecutando los contenedores.
