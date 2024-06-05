@@ -48,7 +48,7 @@ Estructura del proyecto
 
 El proyecto está estructurado de la siguiente manera:
 
-php
+```php
 
 mi-aplicacion-crud/
 │
@@ -65,7 +65,7 @@ mi-aplicacion-crud/
 ├── docker-compose.yml  # Archivo de configuración de Docker Compose
 ├── Dockerfile          # Archivo de configuración de Docker
 └── package.json        # Archivo de dependencias del proyecto
-
+```
 Contribuir
 
 Si deseas contribuir a este proyecto, sigue estos pasos:
