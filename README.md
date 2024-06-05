@@ -32,7 +32,7 @@ Construir y levantar los contenedores Docker
 
 bash 
 
-   docker-compose up --build
+    docker-compose up --build
 
 Acceder a la aplicación
 
