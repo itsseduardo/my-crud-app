@@ -76,16 +76,104 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
     Empuja tus cambios a la rama: git push origin feature/nueva-funcionalidad.
     Abre un pull request en GitHub.
 
-Créditos
+# Marco Teórico
 
-Este proyecto fue creado por 
+Este repositorio contiene información sobre varias tecnologías fundamentales para el desarrollo web moderno. A continuación, se presenta una breve descripción de cada una de ellas, junto con sus características y ventajas.
 
-[Jesus Eduardo Aguilar Sarria](https://github.com/itsseduardo)
+## Node.js
+![Node.js Logo](https://nodejs.org/static/images/logo.svg)
 
-[Santiago Beltran Botero](https://github.com/Santibeltranb)
+*¿Qué es Node?*  
+Node.js es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome. Permite ejecutar código JavaScript del lado del servidor.
 
-[Juan Pablo Ceballos Ramirez](https://github.com/JuanCeballos2)
+*Características:*
+- *Asincrónico y basado en eventos:* Utiliza un modelo de E/S no bloqueante, lo que lo hace ligero y eficiente.
+- *Sistema de paquetes NPM:* Tiene un extenso ecosistema de bibliotecas y paquetes a través del gestor de paquetes npm.
 
-Licencia
+*Ventajas:*
+- *Alta escalabilidad:* Ideal para aplicaciones que requieren manejar muchas conexiones simultáneas.
+- *Desempeño:* Su modelo asincrónico y el uso de V8 lo hacen muy rápido.
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE ](https://github.com/itsseduardo/my-crud-app/blob/main/LICENSE)para más detalles.
+## Express.js
+![Express.js Logo](https://expressjs.com/images/express-facebook-share.png)
+
+*¿Qué es Express?*  
+Express.js es un framework web minimalista para Node.js que proporciona un robusto conjunto de características para aplicaciones web y móviles.
+
+*Características:*
+- *Middleware:* Manejo de peticiones y respuestas a través de funciones middleware.
+- *Enrutamiento:* Define rutas de aplicación con métodos HTTP y URL.
+
+*Ventajas:*
+- *Simplicidad:* Fácil de configurar y usar para crear aplicaciones web rápidas.
+- *Flexibilidad:* Amplia capacidad para personalizar el comportamiento de las aplicaciones.
+
+## MongoDB
+![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg)
+
+*¿Qué es Mongo?*  
+MongoDB es una base de datos NoSQL orientada a documentos que utiliza documentos similares a JSON con esquemas dinámicos.
+
+*Características:*
+- *Documentos BSON:* Usa un formato binario similar a JSON.
+- *Escalabilidad horizontal:* Diseñada para escalar grandes volúmenes de datos y alta disponibilidad.
+
+*Ventajas:*
+- *Flexibilidad:* Los esquemas dinámicos permiten una fácil evolución de la base de datos.
+- *Desempeño:* Optimizada para operaciones de lectura/escritura de alto rendimiento.
+
+## Docker
+![Docker Logo](https://www.docker.com/wp-content/uploads/2023/08/logo-dont-stretch.svg)
+
+*¿Qué es Docker?*  
+Docker es una plataforma que permite a los desarrolladores empaquetar aplicaciones y sus dependencias en contenedores, lo que asegura que se ejecuten de manera uniforme en cualquier entorno.
+
+*Características:*
+- *Aislamiento:* Contenedores aislados que contienen todo lo necesario para ejecutar una aplicación.
+- *Portabilidad:* Los contenedores pueden ser ejecutados en cualquier sistema que tenga Docker instalado.
+
+*Ventajas:*
+- *Consistencia:* Garantiza que la aplicación se ejecute de la misma manera en diferentes entornos.
+- *Eficiencia:* Menos sobrecarga en comparación con máquinas virtuales tradicionales.
+
+## HTML/CSS/JavaScript
+![HTML, CSS, JavaScript Logo](https://w7.pngwing.com/pngs/585/981/png-transparent-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-trademark.png)
+
+*¿Qué es HTML, CSS y JS?*  
+HTML, CSS y JavaScript son las tecnologías básicas para la creación de páginas web.
+
+*Características:*
+- *HTML:* Lenguaje de marcado para estructurar contenido web.
+- *CSS:* Lenguaje de hojas de estilo para diseñar y presentar el contenido HTML.
+- *JavaScript:* Lenguaje de programación para crear interactividad en páginas web.
+
+*Ventajas:*
+- *HTML:* Estructura clara y semántica del contenido.
+- *CSS:* Control preciso sobre la presentación visual.
+- *JavaScript:* Capacidad de crear experiencias de usuario dinámicas e interactivas.
+
+## Bootstrap
+![Bootstrap Logo](https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo-shadow.png)
+
+*¿Qué es Bootstrap?*  
+Bootstrap es un framework de diseño web de código abierto que facilita la creación de interfaces de usuario responsive y modernas.
+
+*Características:*
+- *Componentes predefinidos:* Botones, formularios, tarjetas, etc.
+- *Sistema de rejilla:* Layout responsive basado en una cuadrícula de 12 columnas.
+
+*Ventajas:*
+- *Rapidez:* Acelera el desarrollo frontend con componentes listos para usar.
+- *Consistencia:* Proporciona un diseño uniforme y atractivo.
+
+# Créditos
+
+Este proyecto fue creado por:
+
+- [Jesus Eduardo Aguilar Sarria](https://github.com/itsseduardo)
+- [Santiago Beltran Botero](https://github.com/Santibeltranb)
+- [Juan Pablo Ceballos Ramirez](https://github.com/JuanCeballos2)
+
+# Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/itsseduardo/my-crud-app/blob/main/LICENSE) para más detalles.
