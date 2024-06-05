@@ -1,9 +1,12 @@
 ## Mi Aplicación CRUD con Docker y MongoDB ##
 
 Esta es una aplicación CRUD básica construida con Node.js, Express, MongoDB, Docker y una interfaz de usuario simple con HTML, CSS y Bootstrap.
+
 Requisitos previos
-    Docker instalado en tu sistema: [Instalacion Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es)
-    Docker Compose (solo si no se incluye con Docker en tu sistema):[ Instalacion Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-es)
+   
+Docker instalado en tu sistema: [Instalacion Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-es)
+
+Docker Compose (solo si no se incluye con Docker en tu sistema):[ Instalacion Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-es)
 
     
 Configuración del proyecto
@@ -76,8 +79,11 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 Créditos
 
 Este proyecto fue creado por 
+
 [Jesus Eduardo Aguilar Sarria](https://github.com/itsseduardo)
+
 [Santiago Beltran Botero](https://github.com/Santibeltranb)
+
 [Juan Pablo Ceballos Ramirez](https://github.com/JuanCeballos2)
 
 Licencia
