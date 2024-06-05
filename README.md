@@ -166,6 +166,13 @@ Bootstrap es un framework de diseño web de código abierto que facilita la crea
 - *Rapidez:* Acelera el desarrollo frontend con componentes listos para usar.
 - *Consistencia:* Proporciona un diseño uniforme y atractivo.
 
+
+# Vista Previa
+
+Esta es la página ya dockerizada:
+
+![Vista Previa](https://media.discordapp.net/attachments/1247688974517145675/1248016961187745792/image.png?ex=666221de&is=6660d05e&hm=f3a7a5fc32cba2127c6de0237c520ddaeb003b799182e2a02835d4ac628a6102&=&format=webp&quality=lossless&width=1240&height=676)
+
 # Créditos
 
 Este proyecto fue creado por:
