@@ -30,7 +30,7 @@ Construir y levantar los contenedores Docker
 
     Ejecuta el siguiente comando para construir y levantar los contenedores Docker:
 
-    bash
+bash 
 
     docker-compose up --build
 
